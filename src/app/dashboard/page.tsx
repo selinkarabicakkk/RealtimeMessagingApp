@@ -7,7 +7,7 @@ interface pageProps { }
 const page: FC<pageProps> = ({}) => {
   return (
     <div>
-      <Button size={'default'} variant={'ghost'}/>
+      <Button>   </Button>
     </div>
   )
 }
